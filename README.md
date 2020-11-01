@@ -26,7 +26,4 @@ $ npm run start
 
 # generate static project
 $ npm run generate
-```"# rattrapage_2020" 
-"# rattrapage_2020" 
-"# rattrapage_2020" 
-"# rattrape" 
+``` 
